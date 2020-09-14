@@ -1,5 +1,6 @@
 import html
 import json
+from schemes import schemes
 
 schemes = {
     'Yandex Disk file': {
