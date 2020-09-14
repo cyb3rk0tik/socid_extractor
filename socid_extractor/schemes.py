@@ -1,6 +1,6 @@
 import html
 import json
-from schemes import schemes
+from .utils import *
 
 schemes = {
     'Yandex Disk file': {
